@@ -63,3 +63,8 @@ gulp test
 
 You can have gulp run the tests on any code change by running `gulp watch` in the root of the repository.
 
+# Contributors
+
+Thanks to the following awesome people for helping make module better! =>
+
+- [Josh Nichols](https://technicalpickles.com) ([@technicalpickles](https://github.com/technicalpickles))

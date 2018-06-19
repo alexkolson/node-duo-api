@@ -6,6 +6,13 @@
     "email": "alexkellenolson@gmail.com",
     "url": "https://github.com/alexkolson"
   },
+  "contributors": [
+    {
+      "name": "Josh Nichols",
+      "email": "technicalpickles@github.com",
+      "url": "http://technicalpickles.com/"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/alexkolson/node-duo-api/issues"
   },
