@@ -1,0 +1,37 @@
+{
+  "name": "duo-api",
+  "version": "1.0.10",
+  "author": {
+    "name": "Alex Olson",
+    "email": "alexkellenolson@gmail.com",
+    "url": "https://github.com/alexkolson"
+  },
+  "bugs": {
+    "url": "https://github.com/alexkolson/node-duo-api/issues"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "request": "^2.58.0"
+  },
+  "description": "Duosecurity API Client",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-mocha": "^2.1.2"
+  },
+  "homepage": "https://github.com/alexkolson/node-duo-api#readme",
+  "keywords": [
+    "duo-security",
+    "duo-admin-api",
+    "duo-auth-api",
+    "duo-verify-api",
+    "duo-accounts-api"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkolson/node-duo-api.git"
+  }
+}
